@@ -35,7 +35,7 @@ JSON Placeholder Base URL: https://jsonplaceholder.typicode.com
 * Security Header Deficiencies
 
 ## Files Included
-* Report document (PDF)
+* [Report document (PDF)](https://github.com/shuseel/FUTURE_CS_03/blob/main/API%20Security%20Risk%20Analysis%20Report-shuseel.pdf)
 * Screenshots (Postman requests)
 
 ## Author
